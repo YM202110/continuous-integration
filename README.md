@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1>
-<summary><h2>Step 1: Add a test workflow</h2></summary>
+<summary><h2>Step 1: Add a test workflow yes yes</h2></summary>
 
 _Welcome to "GitHub Actions: Continuous Integration"! :wave:_
 
